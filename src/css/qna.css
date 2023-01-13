@@ -1,0 +1,89 @@
+.qna_container{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: #FFF;
+}
+
+.qna_ans_container{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: #FFF;
+    border-radius: 5px;
+}
+
+.qna_head_container{
+    border-bottom: .5px solid black;
+}
+
+.qna_profile_picture{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.answer_profile_picture{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.qna_head_details{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.answer_head_details{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.qna_body_container{
+    font-family: unset;
+}
+
+.answer_body_container{
+    font-family: monospace;
+}
+
+.qna_footer_container{
+    font-family: fangsong;
+}
+
+.question_link{
+    color: black;
+}
+
+.question_link:hover{
+    color: black;
+}
+
+.ans_verify_icon{
+    margin-left: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.ans_verified_icon{
+    margin-left: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    color: rgb(66, 227, 66);
+}
+
+.ans_delete_icon{
+    color: red;
+    cursor: pointer;
+}
+
+.prof_name{
+    margin-left: 5px;
+    font-family: 'math';
+}
+
+.search_container{
+    background-color: #fff;
+}
+
+.search_result :hover{
+    background-color: antiquewhite;
+}

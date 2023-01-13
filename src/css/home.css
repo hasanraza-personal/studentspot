@@ -1,0 +1,47 @@
+.home_container{
+    padding-top: 20px;
+}
+
+.sub_container_one{
+    /* margin-top: 20px; */
+    align-items: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.main_text_title{
+    padding: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main_text_desc{
+    font-size: 20px;
+    padding: 0 30px 20px 30px;
+}
+
+.main_text_btn{
+    padding-left: 30px;
+}
+
+.sub_container_two{
+    padding: 20px;
+}
+
+.sub_container_title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.card-title{
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+}
+
+.card-text{
+    text-align: center;
+}

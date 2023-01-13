@@ -1,0 +1,39 @@
+body{
+    background-color: #f8f8f8;
+    font-family: 'Noto Serif', serif;
+}
+
+.profile_container{
+    margin-left: 250px;
+}
+
+.sub_profile_container{
+    margin: auto;
+}
+
+.profile_head_text{
+    color: #407BFF;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 10px 10px 0;
+}
+
+.change_container{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 30px;
+}
+
+.change_container_text{
+    color: #407BFF;
+    font-size: 20px;
+}
+
+.profile_picture{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}

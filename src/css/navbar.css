@@ -1,0 +1,15 @@
+.navbar_container{
+    background-color: #407BFF;
+    font-weight: bold;
+    height: 60px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.navbar_title{
+    font-size: 28px;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Noto Serif', serif;
+}
